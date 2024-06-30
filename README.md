@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Laudemir
 - 👀 I’m interested in Python, Java and Android
-- 🌱 I’m currently learning Python and Java 
+- 🌱 I’m currently learning Python and Kotlin
 - 💞️ I’m looking for good example code
 - 📫 How to reach me <laudemir.oliveira@gmail.com>
 
